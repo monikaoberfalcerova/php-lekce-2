@@ -60,6 +60,8 @@
                               <p>S = a · v / 2 = a2 · √3  / 4</p>
                               <p>O = 3a</p>
                               <p>v = a * sin α</p>
+                          <p> Rovnostranný trojúhelník o straně délky 6 cm a úhlu 60 stupňů je 16 cm².</p>
+                          
                       </div>
                   </div>
               </div>
